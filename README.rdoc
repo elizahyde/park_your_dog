@@ -1,7 +1,7 @@
 == PARK YOUR DOG
 
 
-Map of dog parks!
+Map of dog parks in San Francisco!
 
 This project is a a project started by Claire Pierce Moreira. We have continued it in her memory.
 
