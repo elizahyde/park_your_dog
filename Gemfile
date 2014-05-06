@@ -16,7 +16,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'devise'
 
 gem 'carrierwave'
-
+gem 'httparty'
 gem "twitter-bootstrap-rails"
 
 group :development, :test do

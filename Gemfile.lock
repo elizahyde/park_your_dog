@@ -57,6 +57,9 @@ GEM
     execjs (1.4.0)
       multi_json (~> 1.0)
     hike (1.2.3)
+    httparty (0.13.0)
+      json (~> 1.8)
+      multi_xml (>= 0.5.2)
     i18n (0.6.4)
     json (1.8.0)
     mail (2.5.4)
@@ -66,6 +69,7 @@ GEM
     mime-types (1.23)
     minitest (4.7.5)
     multi_json (1.7.7)
+    multi_xml (0.5.5)
     orm_adapter (0.4.0)
     pg (0.15.1)
     polyglot (0.3.3)
@@ -146,6 +150,7 @@ DEPENDENCIES
   binding_of_caller
   carrierwave
   devise
+  httparty
   pg
   pry
   pry-debugger
